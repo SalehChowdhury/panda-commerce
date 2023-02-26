@@ -48,7 +48,11 @@
 }
 #subscribe{
     height: 300px;
+    width: 1110px;
 }
 #subscribe h6{
     color: grey;
+}
+footer{
+    text-align: center;   /*or <footer class="d-flex justify-content-center">*/
 }
